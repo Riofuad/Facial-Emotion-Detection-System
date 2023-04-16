@@ -1,6 +1,6 @@
 # Facial-Emotion-Detection-System
 
-**Link Project:** https://fnilvuwu1.pythonanywhere.com
+**Link Project:** https://fnilvuwu.github.io/emotion-detection-website/
 
 ## Interface:
 
